@@ -111,5 +111,5 @@ Example response from `GET /users/1`:
 ## 🤝 Contributing
 Feel free to submit issues or pull requests! 🚀
 
-📩 **Contact:** [LinkedIn]([https://www.linkedin.com/in/abdulrahmanOmar1/](https://www.linkedin.com/in/abdulrahman-almahmoud-b10636274/))
+📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/abdulrahman-almahmoud-b10636274/)
 
